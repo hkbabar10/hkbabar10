@@ -4,7 +4,7 @@
 I'm a Computer Science student at Western University (class of 2027) who works in security operations and builds software products on the side. Most recently I was a SOC Analyst Intern at Deloitte Middle East, monitoring and triaging alerts for three fintech clients.
 
 yaml
-name: Hamza Babar
+name: Hamza Khan Babar
 location: Ontario, Canada  # experience in the UAE
 education: BSc Computer Science, Western University (2027)
 focus: [security operations, cloud security, technology consulting]
